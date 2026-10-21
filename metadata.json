@@ -1,0 +1,6 @@
+{
+  "name": "CHRONO BLACK — Precision Animated Stopwatch",
+  "description": "A futuristic black-themed precision timekeeping system and animated Python stopwatch with microsecond accuracy, invalid operation prevention, and complete college project deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
